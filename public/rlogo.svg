@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="120mm"
+   viewBox="0 0 128 120"
+   version="1.1"
+   id="svg306"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="rlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview308"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.4792789"
+     inkscape:cx="617.59447"
+     inkscape:cy="372.43451"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs303" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.3524816,-50.503834)">
+    <g
+       transform="matrix(2.4514207,0,0,2.4108165,-8.9968725,-90.960275)"
+       inkscape:label="R"
+       id="g279"
+       style="display:inline;fill:#ff6600">
+      <rect
+         ry="6.4966459"
+         y="61.346558"
+         x="14.098526"
+         height="44.976776"
+         width="13.496993"
+         id="rect273"
+         style="fill:#ff6600;stroke-width:0.252109" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path275"
+         d="M 35.813317,61.601185 V 83.12907 A 10.156241,10.821219 0 0 0 44.981751,72.369808 10.156241,10.821219 0 0 0 35.813317,61.601185 Z"
+         style="fill:#ff6600;stroke-width:0.273108" />
+      <ellipse
+         ry="7.2307258"
+         rx="6.8355188"
+         style="fill:#ff6600;stroke-width:0.18315"
+         id="ellipse277"
+         cx="39.578621"
+         cy="98.848694" />
+    </g>
+  </g>
+</svg>
